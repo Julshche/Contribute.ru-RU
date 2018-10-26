@@ -367,5 +367,5 @@ CREATE TABLE T1 (
 ### <a name="markdown-resources"></a>Ресурсы Markdown
 
 - [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) (Синтаксис Markdown)
-- [Markdown cheat-sheet](./media/documents/markdown-cheatsheet.pdf?raw=true) (Шпаргалка по Markdown)
+- [Markdown cheat-sheet](https://github.com/MicrosoftDocs/Contribute/tree/master/Contribute/media/documents/markdown-cheatsheet.pdf?raw=true) (Шпаргалка по Markdown)
 - [Базовые сведения о разметке Markdown на GitHub](https://help.github.com/articles/markdown-basics/)
